@@ -1,8 +1,9 @@
-# ZSH Mommy~ ❤️
+#⚠️ MENTAL INSANITY FOLLOWS
+# (only for archival purposes)
+# ZSH Illness~ ❤️
 
 <sup>Inspiwed fwom [Gankra/cargo-mommy](https://github.com/Gankra/cargo-mommy) :3 ❤️</sup>
-#⚠️ MENTAL INSANITY FOLLOWS
-##(only for archival purposes)
+
 Mommy is h-h-hewe t-to suppowt you when you'we wunnying commands \<3
 
 ## Instawwation~
