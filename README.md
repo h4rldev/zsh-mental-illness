@@ -1,4 +1,4 @@
-#⚠️ MENTAL INSANITY FOLLOWS
+# ⚠️ MENTAL INSANITY FOLLOWS
 # (only for archival purposes)
 # ZSH Illness~ ❤️
 
